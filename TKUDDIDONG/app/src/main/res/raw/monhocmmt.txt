@@ -1,0 +1,44 @@
+Khung chương trình:
+Kiến thức cơ sở ngành									
+1	Nhập môn mạng và truyền thông			
+2	Kỹ thuật lập trình nhúng			
+3	Toán rời rạc
+4	Kiến trúc máy tính và hệ điều hành		
+5	Kỹ thuật điện tử			
+6	Thiết kế mạch 
+7	Tín hiệu và hệ thống
+8	Xử lý tín hiệu số		
+9	Mạng máy tính và truyền thông		
+10	Phân tích và thiết kế hệ thống truyền thông		
+11	Truyền thông số	
+12	Vi xử lý và cấu trúc máy tính	
+13	Đồ án cơ sở ngành				
+14	Lập trình hướng đối tượng			
+15	Nhập môn IoT		
+16	Quản trị hệ thống trên nền tảng windows					
+17	Cơ sở dữ liệu			
+18	Điện tử ứng dụng		
+19	Đo lường điều khiển bằng máy tính				
+20	Học máy và nhận dạng			
+21	Kỹ thuật truyền thông không dây	
+22	Lập trình Python			
+23	Lý thuyết anten và truyền sóng	
+
+    Kiến thức chuyên ngành				
+1	Chuyển mạch và định tuyến	
+2	Lập trình mạng và truyền thông	
+3	Thiết kế ứng dụng IoT	
+4	An toàn mạng máy tính và truyền thông	
+5	Đồ án chuyên ngành	
+6	Hệ thống nhúng cho truyền thông dữ liệu		
+7	Kiểm thử hệ thống mạng và truyền thông			
+8	Quản trị hệ thống trên nền tảng Linux		
+9	Hệ thống thông tin vô tuyến			
+10	Lập trình Web		
+11	Mạng cảm biến không dây			
+12	Nguyên tắc cơ bản của điện toán đám mây			
+13	Quản lý và lưu trữ thông tin			
+14	Thiết kế ứng dụng trên thiết bị di động			
+15	Thông tin di động				
+16	Thông tin quang				
+17	Truyền thông đa phương tiện

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Khoa Điện Tử</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="screen1"></string>
+    <string name="screen2"></string>
+    <string name="screen3"></string>
+    <string name="screen4"></string>
+    <string name="screen5"></string>
+    <string name="screen6"></string>
+    <string name="screen7"></string>
+    <string name="screen8"></string>
+    <string name="screen1desc">Nhấn next để xem hướng dẫn sử dụng, skip để bỏ qua hướng dẫn</string>
+    <string name="screen2desc"></string>
+    <string name="screen3desc"></string>
+    <string name="screen4desc"></string>
+    <string name="screen5desc"></string>
+    <string name="screen6desc"></string>
+    <string name="screen7desc"></string>
+    <string name="screen8desc"></string>
+    <string name="startDesc">Nhấn để bắt đầu</string>
+</resources>

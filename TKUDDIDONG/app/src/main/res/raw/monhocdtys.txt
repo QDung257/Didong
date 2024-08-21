@@ -1,0 +1,37 @@
+Khung chương trình:
+KIẾN THỨC GIÁO DỤC CHUYÊN NGHIỆP
+Kiến thức cơ sở:
+1	Phân tích mạch DC/AC
+2	Vật liệu và Linh kiện điện tử
+3	An toàn lao động (ĐT)
+4	Đo lường điện và thiết bị đo
+5	Kỹ thuật lập trình
+6	Mạch điện tử 1
+7	CNCT linh kiện điện tử
+8	Điện tử số
+9	Kỹ thuật xung
+10	Mạch điện tử 2
+11	Thực hành Điện tử cơ bản 1
+12	Xử lý số tín hiệu
+13	CAD trong điện tử
+14	Điện tử công suất
+
+Kiến thức chuyên ngành:
+1	Công nghệ nano
+2	TH thiết bị Audio+Video+TV
+3	Thực hành Kỹ thuật xung – số
+4	Truyền hình số
+5	Vi xử lý và cấu trúc máy tính
+6	Kỹ thuật Audio – Video
+7	Kỹ thuật truyền hình
+8	Thiết kế hệ thống số
+9	Vi điều khiển
+11	Cơ sở dữ liệu
+12	Điều khiển logic
+13	ĐLĐK bằng máy tính
+14	Đo lường- cảm biến
+15	Hệ thống viễn thông
+16	Vi điện tử
+17	Hệ điều hành
+18	Kỹ thuật chuyển mạch
+19	Kỹ thuật siêu cao tần và anten

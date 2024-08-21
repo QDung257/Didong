@@ -1,0 +1,11 @@
+1. Tổng quan
+Chương trình đào tạo công nghệ kỹ thuật (CNKT) điện tử y sinh thuộc ngành điện tử viễn thông chú trọng vào các năng lực và thiết kế chế tạo phần cứng lập trình điều khiển các hệ thống điện tử nói chung và các hệ thống điện tử trong y tế nói riêng dựa trên các kiến thức về trang thiết bị điện tử trong y tế.
+Chương trình đào tạo được thiết kế 4 năm cung cấp cho sinh viên đầy đủ các kiến thức kỹ năng về thiết kế mạch điện tử, vi mạch điện tử, điều khiển thiết kế triển khai và vận hành các hệ thống thiết bị điện tử ứng dụng các thuật toán tiên tiến trong xử lý tín hiệu, học máy.
+Chương trình đào tạo trang bị cho người học các kiến thức cơ thể người và áp dụng các kiến thức kỹ thuật điện tử để giải quyết các vấn đề liên quan tới thu, nhận tín hiệu, xử lý tín hiệu y sinh thiết kế cải tiến trang thiết bị y tế nhằm hỗ trợ hiệu quả cho các hoạt động điều trị và chuẩn đoán trong lĩnh vực y tế.
+
+2.Tổ hợp xét tuyển: A00 (Toán, Lý, Hóa) ; A01 (Toán, Lý, Anh).
+3.Mã xét tuyển: 75103021.
+4.Điểm chuẩn năm 2023:
+Phương thức 4:Xét tuyển dựa trên kết quả học tập ở bậc học THPT (26,68 điểm).
+Phương thức 6:Xét tuyển dựa trên kết quả thi đánh giá tư duy do Đại học Bách Khoa tổ chức năm 2023 (15,54 điểm).
+5.Thời gian đào tạo: 4 năm (bằng Cử nhân sau tốt nghiệp).

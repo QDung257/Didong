@@ -1,0 +1,15 @@
+1. Tổng quan
+Là một ngành học chuyên sâu về mạng máy tính nói riêng và mạng truyền dữ liệu nói chung. MMT&TTDL được đánh giá là một ngành có triển vọng và được đánh giá cao trong thời đại công nghệ thông tin phát triển mạnh mẽ như hiện nay.
+Với ngành này, sinh viên sẽ học về các kiến thức, kĩ thuật và công nghệ thiết kế, triển khai và quản lý mạng máy tính và truyền thông dữ liệu, bao gồm các kỹ thuật nền tảng, mô hình, thiết kế, phát triển ứng dụng đa dạng từ cơ bản tới nâng cao trên nền tảng đa dạng từ các mạng cục bộ tới mạng diện rộng như Internet. Ngoài ra, sinh viên còn được rèn luyện để phát triển các kỹ năng chuyên nghiệp như giao tiếp và làm việc nhóm để đảm bảo sự phát triển bền vững trong môi trường làm việc chuyên nghiệp và quốc tế sau này.
+Tuy nhiên, ngành MMT&TTDL cũng đòi hỏi kiến thức chuyên sâu và sự sáng tạo không ngừng không ngừng đáp ứng và làm chủ trong thời đại công nghệ liên tục phát triển. Do vậy, để thành công, sinh viên cần có sự chủ động, tích cực, sự đam mê và nhiệt huyết trong cả hoạt động học tập trên lớp cũng như nghiên cứu khoa học.
+Ngành này có nhiều cơ hội nghề nghiệp hấp dẫn, vì hệ thống mạng là một phần quan trọng của hầu hết các doanh nghiệp và tổ chức, đóng vai trò quan trọng trong việc truyền tải dữ liệu, chia sẻ tài nguyên, và hỗ trợ các dịch vụ khác nhau.
+2. Mã xét tuyển: 7480102.
+3. Tổ hợp xét tuyển: A00 (Toán, Lý, Hóa) và A01 (Toán, Lý, Anh).
+4. Thời gian đào tạo: 4 năm, cấp bằng Cử nhân.
+5. Điểm chuẩn và chỉ tiêu 3 năm gần nhất của Ngành mạng máy tính trường Đại học Công Nghiệp Hà Nội:
+Năm 2020: 23.1 điểm
+Năm 2021: 25.05 điểm
+Năm 2022: 24.65 điểm
+6. Học phí của ngành Mạng máy tính và truyền thông dữ liệu:
+Các học phần hiện nay đa phần là 380.000đ/tín chỉ, mỗi năm nhà trường sẽ tăng không quá 10% học phí. Đây là mức học phí được đánh giá là phù hợp với một ngành ứng dụng công nghệ, kỹ thuật.
+

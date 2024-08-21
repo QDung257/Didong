@@ -1,0 +1,29 @@
+Khung chương trình:
+KIẾN THỨC GIÁO DỤC CHUYÊN NGHIỆP
+    Kiến thức cơ sở:
+1	Kỹ thuật điện tử tương tự
+2	Cấu trúc dữ liệu và giải thuật
+3	Kỹ thuật xung - số
+4	Vật liệu và linh kiện điện tử
+5	CAD trong điện tử
+6	Kỹ thuật lập trình (KTMT)
+7	Thực hành điện tử
+8	Xử lý số tín hiệu
+9	Kiến trúc máy tính và hệ điều hành
+10	Kỹ năng hoạt động công nghiệp
+11	Mạng máy tính (KTMT)
+12	Nguyên lý hệ điều hành
+13	An ninh mạng
+14	Hệ thống truyền thông công nghiệp
+15	Lập trình điều khiển PLC
+16	Quản trị mạng
+17  Vi xử lý và kiến trúc máy tính
+18  Vi điều khiển
+
+    Kiến thức chuyên ngành:
+1	Lập trình hướng đối tượng
+2	Hệ thống nhúng
+3	Kỹ thuật ghép nối máy tính
+4	Kỹ thuật truyền số liệu
+5	Kỹ thuật vi điều khiển
+6	Phát triển ứng dụng cho thiết bị di động
